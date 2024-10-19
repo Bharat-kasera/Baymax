@@ -859,6 +859,11 @@
 "@bcoe/v8-coverage@^0.2.3":
   "version" "0.2.3"
 
+"@dongminyu/react-native-step-counter@^0.2.5":
+  "integrity" "sha512-IRt05fRl+WGQyvT4n8cHA3i9ytiJYaKszYfGSBxUsFK3Xapq8TH321fMvYzyMZCsYS0WY0DJak2/IfOcn6EhXw=="
+  "resolved" "https://registry.npmjs.org/@dongminyu/react-native-step-counter/-/react-native-step-counter-0.2.5.tgz"
+  "version" "0.2.5"
+
 "@egjs/hammerjs@^2.0.17":
   "integrity" "sha512-XQsZgjm2EcVUiZQf11UBJQfmZeEmOW8DpI1gsFeln6w0ae0ii4dMQEQ0kjl6DspdWX1aGY1/loyXnP0JS06e/A=="
   "resolved" "https://registry.npmjs.org/@egjs/hammerjs/-/hammerjs-2.0.17.tgz"
@@ -4720,6 +4725,13 @@
 
 "react-is@^17.0.1":
   "version" "17.0.2"
+
+"react-native-circular-progress@^1.4.0":
+  "integrity" "sha512-JnJE2pvyDVBdIJN49SziDMBmwn6cYTdrWVzpWFzVXzSzouZ9+0+N1nlGFM2zw3gqrJzjL+KktPTUf99IpU5yAg=="
+  "resolved" "https://registry.npmjs.org/react-native-circular-progress/-/react-native-circular-progress-1.4.0.tgz"
+  "version" "1.4.0"
+  dependencies:
+    "prop-types" "^15.8.1"
 
 "react-native-fit-image@^1.5.5":
   "integrity" "sha512-Wl3Vq2DQzxgsWKuW4USfck9zS7YzhvLNPpkwUUCF90bL32e1a0zOVQ3WsJILJOwzmPdHfzZmWasiiAUNBkhNkg=="
