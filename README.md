@@ -1,6 +1,5 @@
 <div align="center">
-
-[https://github.com/user-attachments/assets/00156804-f350-492a-b592-f02831429d65](https://github.com/user-attachments/assets/9246008f-4fd5-4f07-9605-b4abc66b686a)
+https://github.com/user-attachments/assets/9246008f-4fd5-4f07-9605-b4abc66b686a
 <div>
   <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/-Zustand-black?style=for-the-badge&logoColor=white&logo=zustand&color=4B88A2" alt="Zustand" />
@@ -9,15 +8,15 @@
 </div>
 
 
-<h3 align="center">🍽️ Zomato Clone - Full Stack React Native App</h3>
+<h3 align="center">🤖 Baymax - Full Stack React Native App</h3>
 
 </div>
 
 ## 🤖 Introduction
 
-Baymax is a **AI Personal Health care companion** to measure water intake, reminders, count steps for the day and gemini api for health tips with a speak engine.
----
+Baymax is a **Personal Health care companion** to measure water intake, reminders, count steps for the day and gemini api for health tips with a speak engine.
 
+---
 ## ⚙️ Tech Stack
 
 - **React Native CLI**
@@ -29,8 +28,9 @@ Baymax is a **AI Personal Health care companion** to measure water intake, remin
 
 ## 🚀 Features
 
-- Browse restaurants and menus
-- Search and filter options
-- Multi-cart functionality for simultaneous vendor orders
+- Reminders
+- Text to Speech
+- Steps Counter App
+- Gemini ai for health tips
 ---
 
