@@ -1,5 +1,7 @@
 <div align="center">
-(https://github.com/user-attachments/assets/00156804-f350-492a-b592-f02831429d65)  
+  
+https://github.com/user-attachments/assets/f91a97de-84bf-4b96-aad3-717aafb3ecae
+
 <div>
   <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/-Zustand-black?style=for-the-badge&logoColor=white&logo=zustand&color=4B88A2" alt="Zustand" />
